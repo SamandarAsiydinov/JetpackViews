@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.JetpackViews" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#00C853</item>
+    </style>
+</resources>
